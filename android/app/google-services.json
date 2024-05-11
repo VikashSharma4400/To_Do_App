@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "976542376660",
+    "project_id": "to-do-app-edbcc",
+    "storage_bucket": "to-do-app-edbcc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976542376660:android:b338ade4e9293878015141",
+        "android_client_info": {
+          "package_name": "com.example.to_do_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9N3wBb2L9y66bwzJTX2fgP_WgCN5vjtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
